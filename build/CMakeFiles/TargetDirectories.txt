@@ -1,0 +1,3 @@
+/home/namiki/work/cameraKCF/build/CMakeFiles/rebuild_cache.dir
+/home/namiki/work/cameraKCF/build/CMakeFiles/kcf.dir
+/home/namiki/work/cameraKCF/build/CMakeFiles/edit_cache.dir
